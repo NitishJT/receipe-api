@@ -2,100 +2,99 @@
     "categories": [
       {
         "idCategory": "1",
-        "strCategory": "Steak",
-        "strPrice":"269",
-        "strCategoryThumb": "https://www.themealdb.com/images/category/beef.png",
-        "strCategoryDescription": "Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times.[1] Beef is a source of high-quality protein and essential nutrients.[2]"
+        "strCategory": "BURGER",
+        "strPrice":"165",
+        "strCategoryThumb": "https://reosgambia.com/wp-content/uploads/2020/07/photo-1571091718767-18b5b1457add.jpg",
       },
       {
         "idCategory": "2",
-        "strCategory": "Chicken",
-        "strPrice":"453",
-        "strCategoryThumb": "https://www.themealdb.com/images/category/chicken.png",
+        "strCategory": "NOODLES",
+        "strPrice":"59",
+        "strCategoryThumb": "https://myfoodstory.com/wp-content/uploads/2021/07/Easy-Chicken-Chow-Mein-3.jpg",
         "strCategoryDescription": "Chicken is a type of domesticated fowl, a subspecies of the red junglefowl. It is one of the most common and widespread domestic animals, with a total population of more than 19 billion as of 2011.[1] Humans commonly keep chickens as a source of food (consuming both their meat and eggs) and, more rarely, as pets."
       },
       {
         "idCategory": "3",
-        "strCategory": "Dessert",
-        "strPrice":"566",
-        "strCategoryThumb": "https://www.themealdb.com/images/category/dessert.png",
+        "strCategory": "FRIED RICE",
+        "strPrice":"87",
+        "strCategoryThumb": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/fried-rice.jpg",
         "strCategoryDescription": "Dessert is a course that concludes a meal. The course usually consists of sweet foods, such as confections dishes or fruit, and possibly a beverage such as dessert wine or liqueur, however in the United States it may include coffee, cheeses, nuts, or other savory items regarded as a separate course elsewhere. In some parts of the world, such as much of central and western Africa, and most parts of China, there is no tradition of a dessert course to conclude a meal.\r\n\r\nThe term dessert can apply to many confections, such as biscuits, cakes, cookies, custards, gelatins, ice creams, pastries, pies, puddings, and sweet soups, and tarts. Fruit is also commonly found in dessert courses because of its naturally occurring sweetness. Some cultures sweeten foods that are more commonly savory to create desserts."
       },
       {
         "idCategory": "4",
-        "strCategory": "Lamb",
-        "strPrice":"267",
-        "strCategoryThumb": "https://www.themealdb.com/images/category/lamb.png",
+        "strCategory": "MOMOS",
+        "strPrice":"70",
+        "strCategoryThumb": "https://www.tiffinboxfood.com/wp-content/uploads/2020/03/chicken-momo-1.jpg",
         "strCategoryDescription": "Lamb, hogget, and mutton are the meat of domestic sheep (species Ovis aries) at different ages.\r\n\r\nA sheep in its first year is called a lamb, and its meat is also called lamb. The meat of a juvenile sheep older than one year is hogget; outside the USA this is also a term for the living animal. The meat of an adult sheep is mutton, a term only used for the meat, not the living animals. The term mutton is almost always used to refer to goat meat in the Indian subcontinent.\r\n\r\n"
       },
       {
         "idCategory": "5",
-        "strCategory": "Miscellaneous",
+        "strCategory": "CHOWMEIN",
         "strPrice":"190",
-        "strCategoryThumb": "https://www.themealdb.com/images/category/miscellaneous.png",
+        "strCategoryThumb": "https://jackslobodian.com/wp-content/uploads/2021/03/Vegetable-Vegan-Chow-Mein-2-1024x681.jpg",
         "strCategoryDescription": "General foods that don't fit into another category"
       },
       {
         "idCategory": "6",
         "strCategory": "Pasta",
         "strPrice":"45",
-        "strCategoryThumb": "https://www.themealdb.com/images/category/pasta.png",
+        "strCategoryThumb": "https://static.toiimg.com/thumb/53873016.cms?width=1200&height=900",
         "strCategoryDescription": "Pasta is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily.\r\n\r\nAlso commonly used to refer to the variety of pasta dishes, pasta is typically a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and formed into sheets or various shapes, then cooked by boiling or baking. As an alternative for those wanting a different taste, or who need to avoid products containing gluten, some pastas can be made using rice flour in place of wheat.[3][4] Pastas may be divided into two broad categories, dried (pasta secca) and fresh (pasta fresca)."
       },
       {
         "idCategory": "7",
-        "strCategory": "Pork",
-        "strPrice":"897",
-        "strCategoryThumb": "https://www.themealdb.com/images/category/pork.png",
+        "strCategory": "CHILI POTATO",
+        "strPrice":"230",
+        "strCategoryThumb": "https://i.ytimg.com/vi/HToinNNWISU/maxresdefault.jpg",
         "strCategoryDescription": "Pork is the culinary name for meat from a domestic pig (Sus scrofa domesticus). It is the most commonly consumed meat worldwide,[1] with evidence of pig husbandry dating back to 5000 BC. Pork is eaten both freshly cooked and preserved. Curing extends the shelf life of the pork products. Ham, smoked pork, gammon, bacon and sausage are examples of preserved pork. Charcuterie is the branch of cooking devoted to prepared meat products, many from pork.\r\n\r\nPork is the most popular meat in Eastern and Southeastern Asia, and is also very common in the Western world, especially in Central Europe. It is highly prized in Asian cuisines for its fat content and pleasant texture. Consumption of pork is forbidden by Jewish and Muslim dietary law, a taboo that is deeply rooted in tradition, with several suggested possible causes. The sale of pork is limited in Israel and illegal in certain Muslim countries."
       },
       {
         "idCategory": "8",
-        "strCategory": "Seafood",
-        "strPrice":"526",
-        "strCategoryThumb": "https://www.themealdb.com/images/category/seafood.png",
+        "strCategory": "FRIED CHICKEN",
+        "strPrice":"300",
+        "strCategoryThumb": "https://www.thespruceeats.com/thmb/RuiS8PlPaUkJFbrH8skujr90Q8A=/1500x1000/filters:fill(auto,1)/terris-crispy-fried-chicken-legs-3056879-10_preview-5b05ec40a474be00362260d7.jpeg",
         "strCategoryDescription": "Seafood is any form of sea life regarded as food by humans. Seafood prominently includes fish and shellfish. Shellfish include various species of molluscs, crustaceans, and echinoderms. Historically, sea mammals such as whales and dolphins have been consumed as food, though that happens to a lesser extent in modern times. Edible sea plants, such as some seaweeds and microalgae, are widely eaten as seafood around the world, especially in Asia (see the category of sea vegetables). In North America, although not generally in the United Kingdom, the term \"seafood\" is extended to fresh water organisms eaten by humans, so all edible aquatic life may be referred to as seafood. For the sake of completeness, this article includes all edible aquatic life."
       },
       {
         "idCategory": "9",
-        "strCategory": "Side",
-        "strPrice":"300",
-        "strCategoryThumb": "https://www.themealdb.com/images/category/side.png",
+        "strCategory": "CHICKEN LOLIPOP",
+        "strPrice":"523",
+        "strCategoryThumb": "https://1.bp.blogspot.com/-5E7mtsbM28Q/TxFqokSVDgI/AAAAAAAAM2w/qZKiafMYwAM/s1600/Chicken+Lollipops+%25282%2529+-+1.jpg",
         "strCategoryDescription": "A side dish, sometimes referred to as a side order, side item, or simply a side, is a food item that accompanies the entrée or main course at a meal. Side dishes such as salad, potatoes and bread are commonly used with main courses throughout many countries of the western world. New side orders introduced within the past decade[citation needed], such as rice and couscous, have grown to be quite popular throughout Europe, especially at formal occasions (with couscous appearing more commonly at dinner parties with Middle Eastern dishes)."
       },
       {
         "idCategory": "10",
-        "strCategory": "Noodles",
+        "strCategory": "GRILL-SANDWITCH",
         "strPrice":"89",
-        "strCategoryThumb": "https://w7.pngwing.com/pngs/535/859/png-transparent-italian-cuisine-pasta-organic-food-restaurant-foods-food-recipe-cooking-thumbnail.png",
+        "strCategoryThumb": "data:image/jpeg;base64,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",
         "strCategoryDescription": "An entrée in modern French table service and that of much of the English-speaking world (apart from the United States and parts of Canada) is a dish served before the main course of a meal; it may be the first dish served, or it may follow a soup or other small dish or dishes. In the United States and parts of Canada, an entrée is the main dish or the only dish of a meal.\r\n\r\nHistorically, the entrée was one of the stages of the “Classical Order” of formal French table service of the 18th and 19th centuries. It formed a part of the “first service” of the meal, which consisted of potage, hors d’œuvre, and entrée (including the bouilli and relevé). The “second service” consisted of roast (rôti), salad, and entremets (the entremets sometimes being separated into a “third service” of their own). The final service consisted only of dessert.[3]:3–11 :13–25"
       },
       {
         "idCategory": "11",
-        "strCategory": "Hamburgers",
+        "strCategory": "OREO SHAKE",
         "strPrice":"100",
-        "strCategoryThumb": "https://w7.pngwing.com/pngs/424/789/png-transparent-hamburger-junk-food-fast-food-hamburger-french-fries-pizza-junk-food-s-food-recipe-fast-food-restaurant-thumbnail.png",
+        "strCategoryThumb": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2022-03_Oreo-Milkshake%2F2022-03-08_ATK-69092022-03-08",
         "strCategoryDescription": "Veganism is both the practice of abstaining from the use of animal products, particularly in diet, and an associated philosophy that rejects the commodity status of animals.[b] A follower of either the diet or the philosophy is known as a vegan (pronounced /ˈviːɡən/ VEE-gən). Distinctions are sometimes made between several categories of veganism. Dietary vegans (or strict vegetarians) refrain from consuming animal products, not only meat but also eggs, dairy products and other animal-derived substances.[c] The term ethical vegan is often applied to those who not only follow a vegan diet but extend the philosophy into other areas of their lives, and oppose the use of animals for any purpose.[d] Another term is environmental veganism, which refers to the avoidance of animal products on the premise that the harvesting or industrial farming of animals is environmentally damaging and unsustainable."
       },
       {
         "idCategory": "12",
-        "strCategory": "Vegetarian",
+        "strCategory": "MILK SHAKE",
         "strPrice":"150",
-        "strCategoryThumb": "https://www.themealdb.com/images/category/vegetarian.png",
+        "strCategoryThumb": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2020-07-how-to-make-a-milkshake-at-home%2F2020-06-08_AT-K19388",
         "strCategoryDescription": "Vegetarianism is the practice of abstaining from the consumption of meat (red meat, poultry, seafood, and the flesh of any other animal), and may also include abstention from by-products of animal slaughter.\r\n\r\nVegetarianism may be adopted for various reasons. Many people object to eating meat out of respect for sentient life. Such ethical motivations have been codified under various religious beliefs, as well as animal rights advocacy. Other motivations for vegetarianism are health-related, political, environmental, cultural, aesthetic, economic, or personal preference. There are variations of the diet as well: an ovo-lacto vegetarian diet includes both eggs and dairy products, an ovo-vegetarian diet includes eggs but not dairy products, and a lacto-vegetarian diet includes dairy products but not eggs. A vegan diet excludes all animal products, including eggs and dairy. Some vegans also avoid other animal products such as beeswax, leather or silk clothing, and goose-fat shoe polish."
       },
       {
         "idCategory": "13",
-        "strCategory": "Breakfast",
+        "strCategory": "CHOCOLATE SHAKE",
         "strPrice":"120",
-        "strCategoryThumb": "https://www.themealdb.com/images/category/breakfast.png",
+        "strCategoryThumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUTUSDsvpSBKcJL3oDBAV5TvsZlDjkWq1VuSKlDjLvboPJ2w4NQkK1RX6CKbERWiIGW1o&usqp=CAU",
         "strCategoryDescription": "Breakfast is the first meal of a day. The word in English refers to breaking the fasting period of the previous night. There is a strong likelihood for one or more \"typical\", or \"traditional\", breakfast menus to exist in most places, but their composition varies widely from place to place, and has varied over time, so that globally a very wide range of preparations and ingredients are now associated with breakfast."
       },
       {
         "idCategory": "14",
-        "strCategory": "Goat",
+        "strCategory": "PIZZA",
         "strPrice":"189",
-        "strCategoryThumb": "https://www.themealdb.com/images/category/goat.png",
+        "strCategoryThumb": "https://img.onmanorama.com/content/dam/mm/en/food/features/images/2021/10/17/pizza.jpg",
         "strCategoryDescription": "The domestic goat or simply goat (Capra aegagrus hircus) is a subspecies of C. aegagrus domesticated from the wild goat of Southwest Asia and Eastern Europe. The goat is a member of the animal family Bovidae and the subfamily Caprinae, meaning it is closely related to the sheep. There are over 300 distinct breeds of goat. Goats are one of the oldest domesticated species of animal, and have been used for milk, meat, fur and skins across much of the world. Milk from goats is often turned into goat cheese."
       }
     ]
